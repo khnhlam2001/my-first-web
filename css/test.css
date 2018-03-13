@@ -1,0 +1,28 @@
+h1{
+	color: brown;
+	text-shadow: unset;
+	text-decoration: underline;
+	font-size: 75px;
+
+}
+
+#first{
+	font-size: 10px;
+}
+.small{
+
+	font-size: 50px;
+}
+
+h2{
+	font-size: 22px
+	color:blue;
+}
+
+span{
+	font-style: italic;
+}
+
+h2 span{
+	text-decoration: line-through;
+}	
